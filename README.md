@@ -5,16 +5,12 @@
 UnrealEngine4.27.02
 
 ## 作业二
-- 运行视频：
-
-  链接：https://pan.baidu.com/s/1TfE3svvB58ZmWLEe7YRQKQ 
+- 链接：https://pan.baidu.com/s/17ayek69PzTA8QwJq2q2FNw 
   ​	提取码：7799
-
-
 
 - 打包：
 
-  链接：https://pan.baidu.com/s/1ZA58Bh_rFRlMDajGEBc-zw 
+  链接：https://pan.baidu.com/s/1n8oWEHl22YZlYITlu5P8QQ 
   ​	提取码：7799
 
 
