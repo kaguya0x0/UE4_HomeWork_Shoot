@@ -8,7 +8,21 @@ UnrealEngine4.27.02
 
 ## 作业五-物理
 
-实现不同材质行走的脚步声、拾取和丢弃武器
+实现不同材质行走的脚步声、拾取和丢弃武器、不同材质枪械子弹命中效果
+
+
+
+- 演示视频：
+
+  链接：https://pan.baidu.com/s/1xlwZUUjhkf0YZqb1AKejTQ 
+  ​	提取码：7799
+
+- win包：
+
+  链接：https://pan.baidu.com/s/1s69NzDyX-VBO7Ghn1ouhAw 
+  ​	提取码：7799
+
+
 
 ## 作业四-动画
 
